@@ -1,0 +1,18 @@
+Student Name		 average	 Final Grade
+=====================================================
+Tom Jones                 82.78                    B-                   
+Frank Thompson            73.11                    C                    
+Tom Jackson               89.89                    B+                   
+Michael Jackson           62.00                    D                    
+Sara Johnson              77.67                    C+                   
+McCoy Colt                79.28                    C+                   
+Michael Freeman           73.11                    C                    
+Schaub VickMatt           62.00                    D                    
+Rivers Philip             91.33                    A-                   
+Hassel Matt               77.64                    C+                   
+Jimmy beck                67.78                    D                    
+Joe Clausen               74.78                    C                    
+Kyle Flacco               85.22                    B                    
+Jason Orton               78.56                    C+                   
+=====================================================
+Class Average:            76.80
